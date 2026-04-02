@@ -61,4 +61,4 @@ Este repositório acompanha uma análise crítica do padrão Facade, conectando 
 
 ---
 
-*Atividade acadêmica — 4º Semestre de Engenharia de Software, PUC Minas, 2025.*
+*Atividade acadêmica — 4º Semestre de Engenharia de Software, PUC Minas, 2026.*
